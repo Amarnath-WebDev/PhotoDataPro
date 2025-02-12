@@ -1,0 +1,22 @@
+{
+  "name": "telegram-image-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "exif-reader": "^2.0.2",
+    "fetch": "^1.1.0",
+    "fs": "^0.0.1-security",
+    "heic-convert": "^2.1.0",
+    "node-fetch": "^3.3.2",
+    "node-telegram-bot-api": "^0.66.0",
+    "sharp": "^0.33.5",
+    "tesseract.js": "^6.0.0"
+  }
+}
